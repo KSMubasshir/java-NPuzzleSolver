@@ -22,11 +22,10 @@ is one of the variant goal pattern.
 * Linear Conflict + Manhattan Distance/Taxicab geometry
   * Two tiles ‘a’ and ‘b’ are in a linear conflict if they are in the same row or column ,
     also their goal positions are in the same row or column and the goal position of one of the tiles is blocked by the other tile in that row.
-    
 ## Input
 * N - Dimension of the matrix (NxN)
 * NxN numbers of the puzzle
 ## Output
-* Each steps of the solution using each heuristics(if solvable)
+* Each steps of the solution using each heuristics(if solvable)<br />
 ![output](images/output.png)
 
