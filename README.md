@@ -1,5 +1,5 @@
 # java-NPuzzleSolver
-An implementation of nxn dimensional puzzle solver using AI in java
+An implementation of nxn dimensional puzzle solver using A* in java
 
 ## Implementing A-star(A*) to solve N-Puzzle
 ## What is N-Puzzle?
